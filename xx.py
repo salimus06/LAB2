@@ -1,4 +1,5 @@
 x=2
 y=3
-z=x+y
+f=1
+z=x+y+f
 print(z)
